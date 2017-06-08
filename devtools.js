@@ -6,4 +6,4 @@
  */
 var panelWindow, injectedPanel = false, injectedPage = false, panelVisible = false, savedStack = [];
 
-chrome.devtools.panels.create("Ember", "images/ember-icon-final.png", "index.html");
+chrome.devtools.panels.create("PegaSectionData", "images/ember-icon-final.png", "index.html");
